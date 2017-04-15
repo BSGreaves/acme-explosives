@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "For Kids",
+            "description": "Toys even kids can use"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "Rockets and Candles",
+            "description": "Small fireworks for the backyard"
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "Aerial",
+            "description": "Put your neighbors to shame"
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "Grenades",
+            "description": "Fire in the hole!"
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "Artillery",
+            "description": "They'll never see it coming"
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "Mines",
+            "description": "Hidden presents for your enemies"
+        }
+    ]
+}
