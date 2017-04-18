@@ -1,12 +1,9 @@
 {
-    "categories": [
-        {
-            "id": 0,
-            "name": "Fireworks"
-        },
-        {
-            "id": 1,
-            "name": "Explosives"
-        }
-    ]
+    "categories": [{
+        "id": 0,
+        "name": "Fireworks"
+    }, {
+        "id": 1,
+        "name": "Explosives"
+    }]
 }
