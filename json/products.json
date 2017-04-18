@@ -1,0 +1,93 @@
+{
+    "products": [{
+        "id": 0,
+        "type": 0,
+        "name": "Fairy Sparklers",
+        "description": "Multi-colored sparklers that are safe for any age."
+    }, {
+        "id": 1,
+        "type": 0,
+        "name": "Snap Rocks",
+        "description": "Throw em on the ground!"
+    }, {
+        "id": 2,
+        "type": 0,
+        "name": "Bottle Rockets",
+        "description": "We lied, these aren't safe for kids. But they are fun!"
+    }, {
+        "id": 3,
+        "type": 1,
+        "name": "Roman Candles",
+        "description": "Don't point em at your friends!"
+    }, {
+        "id": 4,
+        "type": 1,
+        "name": "Fantasia Candles",
+        "description": "Set it on the ground for a beautiful light display."
+    }, {
+        "id": 5,
+        "type": 1,
+        "name": "Chinese crackers",
+        "description": "Great for pranks!"
+    }, {
+        "id": 6,
+        "type": 2,
+        "name": "Parachute Rockets",
+        "description": "Try to catch them on his way down!"
+    }, {
+        "id": 7,
+        "type": 2,
+        "name": "Flower Power Mortars",
+        "description": "Beautiful colors to light up the sky."
+    }, {
+        "id": 8,
+        "type": 2,
+        "name": "Moon Rockets",
+        "description": "Big blasting rockets to blow them away."
+    }, {
+        "id": 9,
+        "type": 3,
+        "name": "Molotov Cocktail",
+        "description": "Off the shelf fun for the whole family."
+    }, {
+        "id": 10,
+        "type": 3,
+        "name": "M67 Grenade",
+        "description": "A classic. If it ain't broke, this'll break it."
+    }, {
+        "id": 11,
+        "type": 3,
+        "name": "M76 Incendiary Grenades",
+        "description": "Kill it with fire."
+    }, {
+        "id": 12,
+        "type": 4,
+        "name": "M777 Howitzer",
+        "description": "The Gold Standard for at-range fire."
+    }, {
+        "id": 13,
+        "type": 4,
+        "name": "Flak 88",
+        "description": "The best thing to come out of Germany since saurkraut."
+    }, {
+        "id": 14,
+        "type": 4,
+        "name": "M252 Mortar",
+        "description": "Fun for the whole family. Just kidding, don't use this at home."
+    }, {
+        "id": 15,
+        "type": 5,
+        "name": "M18 Claymore Mine",
+        "description": "Point it at someone and yell 'BANG!'"
+    }, {
+        "id": 16,
+        "type": 5,
+        "name": "Type 72 Anti-Tank Mines",
+        "description": "China's answer to the world's biggest tanks."
+    }, {
+        "id": 17,
+        "type": 5,
+        "name": "MK56 Anti-Sub Mine",
+        "description": "Laying waste to enemy ships since 1966."
+    }]
+}
